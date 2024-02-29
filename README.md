@@ -1,11 +1,26 @@
 PT-BR 
 
-Um site sobre segurança do trabalho
+Olá! Meu nome é Anderson, sou estudante de Ciência da Computação e estou praticando as minhas habilidades com HTML, CSS e Javascript.
 
-Meu segundo site. Fiz ele com HTMl e CSS
+O projeto a seguir é dedicado à segurança do trabalho, abordando aspectos cruciais para garantir ambientes laborais seguros e saudáveis.
+
+Neste espaço, exploramos práticas essenciais para prevenir acidentes, promover o bem-estar dos colaboradores e cumprir normas regulamentadoras.
+
+Sinta-se à vontade para me seguir nas redes:
+
+linkedin: https://linkedin.com/in/anderson-elvis-8a8406227
+twitter: https://twitter.com/AndersonEl16064
+
 
 ENGLISH 
 
-A website about occupational safety.
+Hello! My name is Anderson, I am a Computer Science student, and I am practicing my skills with HTML, CSS, and Javascript.
 
-My second website. I made it with HTML and CSS.
+The following project is dedicated to workplace safety, addressing crucial aspects to ensure safe and healthy work environments.
+
+In this space, we explore essential practices to prevent accidents, promote employee well-being, and comply with regulatory standards.
+
+Feel free to follow me on social media:
+
+LinkedIn: https://linkedin.com/in/anderson-elvis-8a8406227
+Twitter: https://twitter.com/AndersonEl16064
