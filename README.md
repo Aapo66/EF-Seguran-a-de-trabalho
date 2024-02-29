@@ -8,8 +8,9 @@ Neste espaço, exploramos práticas essenciais para prevenir acidentes, promover
 
 Sinta-se à vontade para me seguir nas redes:
 
+email: andersonelvis191@gmail.com
+twitter(X): https://twitter.com/AndersonEl16064
 linkedin: https://linkedin.com/in/anderson-elvis-8a8406227
-twitter: https://twitter.com/AndersonEl16064
 
 
 ENGLISH 
@@ -22,5 +23,6 @@ In this space, we explore essential practices to prevent accidents, promote empl
 
 Feel free to follow me on social media:
 
-LinkedIn: https://linkedin.com/in/anderson-elvis-8a8406227
-Twitter: https://twitter.com/AndersonEl16064
+email: andersonelvis191@gmail.com
+twitter(X): https://twitter.com/AndersonEl16064
+linkedin: https://linkedin.com/in/anderson-elvis-8a8406227
