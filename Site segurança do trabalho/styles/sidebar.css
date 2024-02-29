@@ -1,0 +1,229 @@
+.sidebar{
+    width: 250px; 
+    background-color: #424147; 
+    color: white; 
+    animation: expandSidebar 1s ease forwards;
+    overflow-y: auto; 
+}
+
+
+
+.sidebar-nrs{
+    width: 250px; 
+    background-color: #424147; 
+    color: white; 
+    animation: expandSidebar 1s ease forwards;
+    overflow-y: auto; 
+}
+
+@media screen and (min-height: 1px) {
+    @keyframes expandSidebar {
+        from {
+            height: 0; 
+        }
+        to {
+            height: 110px; 
+        }
+    }
+}
+
+@media screen and (min-height: 287px) {
+    @keyframes expandSidebar {
+        from {
+            height: 0; 
+        }
+        to {
+            height: 210px; 
+        }
+    }
+}
+
+@media screen and (min-height: 387px) {
+    @keyframes expandSidebar {
+        from {
+            height: 0; 
+        }
+        to {
+            height: 310px; 
+        }
+    }
+}
+
+@media screen and (min-height: 487px) {
+    @keyframes expandSidebar {
+        from {
+            height: 0; 
+        }
+        to {
+            height: 410px; 
+        }
+    }
+}
+
+@media screen and (min-height: 587px) {
+    @keyframes expandSidebar {
+        from {
+            height: 0; 
+        }
+        to {
+            height: 510px; 
+        }
+    }
+}
+
+@media screen and (min-height: 687px) {
+    @keyframes expandSidebar {
+        from {
+            height: 0; 
+        }
+        to {
+            height: 610px; 
+        }
+    }
+}
+
+@media screen and (min-height: 787px) {
+    @keyframes expandSidebar {
+        from {
+            height: 0; 
+        }
+        to {
+            height: 710px; 
+        }
+    }
+}
+
+@media screen and (min-height: 887px) {
+    @keyframes expandSidebar {
+        from {
+            height: 0; 
+        }
+        to {
+            height: 810px; 
+        }
+    }
+}
+
+@media screen and (min-height: 987px) {
+    @keyframes expandSidebar {
+        from {
+            height: 0; 
+        }
+        to {
+            height: 910px; 
+        }
+    }
+}
+
+@media screen and (min-height: 1087px) {
+    @keyframes expandSidebar {
+        from {
+            height: 0; 
+        }
+        to {
+            height: 1010px; 
+        }
+    }
+}
+
+@media screen and (min-height: 1187px) {
+    @keyframes expandSidebar {
+        from {
+            height: 0; 
+        }
+        to {
+            height: 1110px; 
+        }
+    }
+}
+
+@media screen and (min-height: 1287px) {
+    @keyframes expandSidebar {
+        from {
+            height: 0; 
+        }
+        to {
+            height: 1210px; 
+        }
+    }
+}
+
+@media screen and (min-height: 1387px) {
+    @keyframes expandSidebar {
+        from {
+            height: 0; 
+        }
+        to {
+            height: 1310px; 
+        }
+    }
+}
+
+@media screen and (min-height: 1487px) {
+    @keyframes expandSidebar {
+        from {
+            height: 0; 
+        }
+        to {
+            height: 1410px; 
+        }
+    }
+}
+
+.sidebar nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+
+
+
+.sidebar nav ul li a {
+    color: #ffffff;
+    padding: 4px;
+    margin-top: 20px;
+    text-decoration: none;
+    font-size: 20px;  
+    display: block; 
+    transition: .2s;
+}
+
+
+.sidebar nav ul li a:hover{
+    background-color: #d4f723;
+    color: #424147;
+    box-shadow: inset 0 0 8px #0000009c;
+}
+
+
+.sidebar-nrs nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+.sidebar-nrs nav ul li {
+    margin-bottom: 10px;
+}
+
+
+.sidebar-nrs nav ul li a {
+    color: #ffffff;
+    padding: 4px;
+    margin-top: 50px;
+    text-decoration: none;
+    font-size: 20px;  
+    display: block; 
+    transition: .2s;
+}
+
+
+.sidebar-nrs nav ul li a:hover{
+    background-color: #d4f723;
+    color: #424147;
+    box-shadow: inset 0 0 8px #0000009c;
+}
+
+
+

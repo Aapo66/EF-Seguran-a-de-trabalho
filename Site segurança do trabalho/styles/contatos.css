@@ -1,0 +1,70 @@
+main{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.linkssocial ul{
+    list-style-type: none;
+    display: flex;
+    position: relative;
+    gap: 40px;
+
+}
+
+.linkssocial ul li{
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    box-shadow: 0 8px 25px #00000055;
+    border-radius: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    transition: .2s;
+}
+
+.linkssocial ul li:hover{
+    width: 180px;
+}
+
+.linkssocial ul li span{
+    position: absolute;
+}
+
+.linkssocial ul li .icon{
+    color: #ccc;
+    font-size: 2.2em;
+    transition: .2s;
+}
+
+.linkssocial ul li .text{
+    color: #ffffff;
+    font-size: 30px;
+    transform: scale(0);
+    transition: .2s;
+    transition-delay: .1s;
+}
+
+.linkssocial ul li:hover .text{
+    transform: scale(1);
+}
+
+.linkssocial ul li:hover .icon{
+    transform: scale(0);
+}
+
+.linkssocial ul li::before{
+    content: '';
+    position: absolute;
+    background-image: linear-gradient(45deg, var(--cor1), var(--cor2));
+    inset: 0;
+    opacity: 0;
+    border-radius: 60px;
+}
+
+.linkssocial ul li:hover::before{
+    opacity: 1;
+}
