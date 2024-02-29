@@ -6,7 +6,7 @@ O projeto a seguir é dedicado à segurança do trabalho, abordando aspectos cru
 
 Neste espaço, exploramos práticas essenciais para prevenir acidentes, promover o bem-estar dos colaboradores e cumprir normas regulamentadoras.
 
-Sinta-se à vontade para me seguir nas redes:
+Sinta-se à vontade para se comunicar comigo com criticas ou so se comunicar mesmo:
 
 email: andersonelvis191@gmail.com
 twitter(X): https://twitter.com/AndersonEl16064
@@ -21,7 +21,7 @@ The following project is dedicated to workplace safety, addressing crucial aspec
 
 In this space, we explore essential practices to prevent accidents, promote employee well-being, and comply with regulatory standards.
 
-Feel free to follow me on social media:
+Feel free to communicate with me with criticisms or just to communicate:
 
 email: andersonelvis191@gmail.com
 twitter(X): https://twitter.com/AndersonEl16064
